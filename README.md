@@ -1,1 +1,1 @@
-# laravel-online-trading-platform
+# trading-platform
